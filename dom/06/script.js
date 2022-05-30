@@ -6,4 +6,4 @@ de TECLADO
     - onkeydown = Toda vez que clicar
     - onkeyup = Toda vez que pressionar e depois soltar 
     - onkeypress = Toda vez que pressionar 
-    
+*/
